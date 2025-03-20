@@ -6,8 +6,8 @@ Este projeto é uma **calculadora web** desenvolvida com Django, focada na reali
 ## 🚀 Tecnologias Utilizadas
 - **Python 3**
 - **Django**
-- **HTML, CSS e JavaScript** (para a interface, se aplicável)
-- **SQLite/PostgreSQL** (dependendo da configuração do banco de dados)
+- **HTML, CSS e JavaScript** 
+- **SQLite/PostgreSQL** 
 
 ## ⚙️ Funcionalidades
 - Operações matemáticas básicas: **soma, subtração, multiplicação e divisão**.
@@ -51,7 +51,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-Acesse **http://127.0.0.1:8000/** no navegador para utilizar a calculadora.
+Acesse **http://127.0.0.1:8000/** no navegador para utilizar a calculadora localmente com o "py manage.py runserver".
 
 ## 🛠️ Melhorias Futuras
 - Implementação de cálculos científicos avançados.
